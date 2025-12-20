@@ -7,7 +7,7 @@ I’m a Full Stack Software Developer who enjoys using creativity and ingenuity 
 
 ## Projects
 
-### GroWise
+### 🪴 GroWise 
 
 For our final group project of bootcamp, I was placed into a team of five to plan, develop and present a full stack project. My group developed a web based application called GroWise. 
 
@@ -29,7 +29,7 @@ One thing I am particularly proud of from this project is the calculator modal I
 - Creating a database for my personal project Community Cooking. 
 - Exploring different ways to display information in applications.
 
-## Let's Connect
+## 📫 Let's Connect
 - [LinkedIn](www.linkedin.com/in/rebeccaingulkar)
 - [Email me](mailto:rebeccaingulkar@outlook.com)
 ## Fun Fact
