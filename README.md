@@ -33,6 +33,6 @@ One thing I am particularly proud of from this project is the calculator modal I
 - [LinkedIn](www.linkedin.com/in/rebeccaingulkar)
 - [Email me](mailto:rebeccaingulkar@outlook.com)
 ## Fun Fact
-
+I enjoy spending time in my garden, cooking or baking my favourite recipes and doing HIIT classes at the gym.  
 
 
