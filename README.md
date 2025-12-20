@@ -1,4 +1,17 @@
-## Hi there 👋
+## Kia ora, I'm Rebecca  👋
+
+about me
+
+projects
+
+tech stack
+
+human skills 
+
+contact
+
+- ⚡ Fun fact: ...
+
 
 <!--
 **rebecca-ingulkar/rebecca-ingulkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
