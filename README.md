@@ -1,29 +1,22 @@
-## Kia ora, I'm Rebecca  👋
+### Kia ora, I'm Rebecca  👋
 
-about me
+## About Me
 
-projects
+I’m a Full Stack Software Developer who enjoys using creativity and ingenuity to solve problems. I recently completed a year long, part time web development bootcamp with Dev Academy. During this course I gained hands on experience in modern development languages such as React, TypeScript, JavaScript, Express and PostgreSQL. 
 
-tech stack
+## Projects
+# GroWise
 
-human skills 
+# Health Tracker
 
-contact
+# Rebecca Ingulkar Foundations Blog
 
-- ⚡ Fun fact: ...
+## Tech Stack
+
+## Currently Working On
+
+## Let's Connect
+
+## Fun Fact
 
 
-<!--
-**rebecca-ingulkar/rebecca-ingulkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
