@@ -28,6 +28,21 @@ One thing I am particularly proud of from this project is the calculator modal I
 
 ![Calculator Modal](calculatorModal.webp)
 
+### 🎬 Movie Collection 
+Movie collection is an individual full stack project that I worked on during my studies. I really enjoyed this project as it was the first time I had done the work from start to finish or writing both the back and front end. Working on the project this way solidified my thought process about how everything fits together. 
+
+![Movie Collection Screenshot](MovieCollection.webp)
+
+To improve this project, I could add information from the Movie Database API or add the ability to log and rate real movies, rather than made up titles. 
+
+### 📖 Rebecca Ingulkar Foundations Blog
+
+During the first 10 weeks of my study I kept a blog to practice, write and reflect on what I was learning. 
+
+I kept the layout clean and easy to navigate. I added features that were recommended to me during feedback from one of the course facilitators. 
+
+At the time, I really enjoyed working on this project because we were working with the basics, HTML, CSS and JavaScript and it was a great chance to experiment with what I already knew and the new learnings I was learning. 
+
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,typescript,react,javascript,git,github,express,md,nodejs,sqlite,vitest)](https://skillicons.dev) 
 
