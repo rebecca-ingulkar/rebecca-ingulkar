@@ -3,7 +3,14 @@
 ## About Me
 
 
-I’m a Full Stack Software Developer who enjoys using creativity and ingenuity to solve problems. I recently completed a year long, part time web development bootcamp with Dev Academy. During this course I gained hands on experience in modern development languages such as React, TypeScript, JavaScript, Express and PostgreSQL. 
+I’m a Full Stack Software Developer who enjoys using creativity and ingenuity to solve problems. I recently completed a year long, part time web development bootcamp with Dev Academy. During this course I gained 800+ hours of experience in modern development languages such as React, TypeScript, JavaScript, Express and SQLite with Knex.
+
+I’ve worked in the Information Technology industry for five years, primarily in the IT Help Desk space. At the beginning of 2025 I began working on  back end configuration of Service Now, becoming my organisation's Service Now expert. My background in IT support has given me a strong foundation in troubleshooting, clear communication and working closely with end users to understand their needs.
+
+My biggest motivation for learning software development has stemmed from the desire to build something creative and meaningful. I’ve always been creative, whether it’s writing blogs about recent travels or coming up with new app ideas, learning software development has given me the tools to turn my ideas into reality.
+
+I’m actively seeking full stack software development opportunities. If you’re looking for a motivated, user focused developer with a strong technical background, I’d love to connect.
+
 
 ## Projects
 
