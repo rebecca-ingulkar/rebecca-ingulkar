@@ -9,7 +9,7 @@ I’ve worked in the Information Technology industry for five years, primarily i
 
 My biggest motivation for learning software development has stemmed from the desire to build something creative and meaningful. I’ve always been creative, whether it’s writing blogs about recent travels or coming up with new app ideas, learning software development has given me the tools to turn my ideas into reality.
 
-I’m actively seeking full stack software development opportunities. If you’re looking for a motivated, user focused developer with a strong technical background, I’d love to connect.
+I’m actively seeking full stack software development opportunities. If you’re looking for a motivated, customer focused developer with a strong technical background, I’d love to connect.
 
 
 ## Projects
