@@ -47,7 +47,7 @@ At the time, I really enjoyed working on this project because we were working wi
 [![My Skills](https://skillicons.dev/icons?i=html,css,typescript,react,javascript,git,github,express,md,nodejs,sqlite,vitest)](https://skillicons.dev) 
 
 ## Currently Working On
-- Adding different plants to our forever expanding plants database on GroWise.
+- Adding different plants to the forever expanding plants database on GroWise.
 - Fixing minor bugs on GroWise.
 
 ## 📫 Let's Connect
