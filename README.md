@@ -48,8 +48,7 @@ At the time, I really enjoyed working on this project because we were working wi
 
 ## Currently Working On
 - Adding different plants to our forever expanding plants database on GroWise.
-- Creating a database for my personal project Bene Rates. 
-- Exploring different ways to display information in applications.
+- Fixing minor bugs on GroWise.
 
 ## 📫 Let's Connect
 - [LinkedIn](www.linkedin.com/in/rebeccaingulkar)
